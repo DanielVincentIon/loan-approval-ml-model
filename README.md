@@ -4,7 +4,7 @@ A supervised machine learning project to predict loan approval using classificat
 ## Loan Approval Prediction using Machine Learning
 
 ### Overview
-The project demonstrates the full machine learning pipeline, including data preprocessing, model training, evaluation, and interpretation.
+The project demonstrates the full machine learning pipeline, including preprocessing, model training, evaluation, and interpretation.
 
 ### Dataset
 The dataset contains approximately 45,000 observations with both numerical and categorical variables, including income, credit score, and loan characteristics.

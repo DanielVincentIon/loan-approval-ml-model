@@ -15,6 +15,7 @@ The dataset contains approximately 45,000 observations with both numerical and c
 
 ### Results
 The Random Forest model achieved the best performance, with an accuracy of 0.93 and F1-score of 0.83 for the positive class.
+Feature importance analysis shows that previous loan defaults and financial affordability are the most influential factors.
 
 ### How to Run
 The notebook can be opened and executed in Google Colab. The dataset is loaded directly from this repository.

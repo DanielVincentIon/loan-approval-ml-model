@@ -7,7 +7,7 @@ A supervised machine learning project to predict loan approval using classificat
 The project demonstrates the full machine learning pipeline, including preprocessing, model training, evaluation, and interpretation.
 
 ### Dataset
-The dataset contains approximately 45,000 observations with both numerical and categorical variables, including income, credit score, and loan characteristics.
+The dataset contains approximately 45,000 observations with both numerical and categorical variables, including income, credit score, and loan characteristics. The dataset was sourced from Kaggle.com - https://www.kaggle.com/code/youssefelbadry10/loan-approval-classification-eda-ml
 
 ### Models Used
 - Logistic Regression
